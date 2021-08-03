@@ -1,2 +1,0 @@
-# learningcode
-# self learning
